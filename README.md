@@ -1,156 +1,81 @@
-<div align="center">
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0066ff&height=200&section=header&text=SIMISO%20NXUMALO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20|%20Cloud%20|%20SOC%20Operations&descAlignY=55&descSize=18"/>
-<!-- Typing Animation -->
-https://git.io/typing-svg
-<!-- Status Badges -->
-https://github.com/Somaphunga
-https://linkedin.com/in/Simisosenkosi-Nxumalo
-https://instagram.com/Simisosenkosi_kalanga
-</div>
-🛡️ About Me
-bash
-root@simiso-nxumalo:~$ whoami
-> Simiso Nxumalo — Emerging Cybersecurity & Cloud Operations Specialist
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=SIMISO%20NXUMALO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20|%20Cloud%20|%20SOC%20Operations&descAlignY=55&descSize=20" />
+</p>
 
-root@simiso-nxumalo:~$ cat /proc/skills
-> SOC Analyst | Endpoint Admin | Cloud Security | Threat Detection
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Emerging+Cybersecurity+%26+Cloud+Operations+Specialist;SOC+Analyst+%7C+Endpoint+Admin+%7C+Cloud+Security;Threat+Detection+%7C+SIEM+%7C+Incident+Response" alt="Typing SVG" />
+  </a>
+</p>
 
-root@simiso-nxumalo:~$ cat /proc/certs
-> Microsoft SC-200 (Security Operations Analyst)
-> TryHackMe SOC Level 1
-> TryHackMe Digital Forensics & Security Analyst
-> Splunk Hands-on SIEM & Log Analysis
-> CCNA (In Progress)
+<p align="center">
+  <a href="https://github.com/Somaphunga">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/Simisosenkosi-Nxumalo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/Simisosenkosi_kalanga">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-root@simiso-nxumalo:~$ cat /proc/location
-> Centurion, Gauteng, South Africa
-> Available for relocation & remote roles
+---
 
-root@simiso-nxumalo:~$ cat /proc/status
-> Status: IMMEDIATELY AVAILABLE
-> Clearance: SC-200 | Languages: English (Fluent), Zulu (Native)
-🔐 Cybersecurity Arsenal
-SIEM & Threat Detection
- Microsoft Sentinel 
+## 🛡️ Tech Stack
 
- Splunk 
+| Category | Tools |
+|----------|-------|
+| **SIEM & Threat Detection** | Microsoft Sentinel, Splunk |
+| **Endpoint Security** | Microsoft Defender, CrowdStrike, KQL |
+| **Cloud Security** | Microsoft Azure, Microsoft Intune |
+| **OS** | Windows, Linux |
+| **Networking** | TCP/IP, DNS, Cisco |
+| **Forensics** | Autopsy, Volatility, Wireshark |
+| **Languages** | Python, JavaScript, HTML5, CSS3 |
 
- Microsoft Defender 
+---
 
- KQL 
-Endpoint & Cloud Security
- Microsoft Intune 
+## 📊 GitHub Stats
 
- Microsoft Azure 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Somaphunga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somaphunga&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p>
 
- Windows 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Somaphunga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
- CrowdStrike 
-Networking & Infrastructure
- Cisco 
+---
 
- TCP/IP 
+## 🏆 Certifications
 
- DNS 
-Forensics & Analysis
- Autopsy 
+| Certification | Status |
+|-------------|--------|
+| Microsoft SC-200 (Security Operations Analyst) | ✅ Completed |
+| TryHackMe SOC Level 1 | ✅ Completed |
+| TryHackMe Digital Forensics | ✅ Completed |
+| Splunk SIEM & Log Analysis | ✅ Completed |
+| CCNA | ⏳ In Progress |
+| Microsoft SC-400 | ⏳ In Progress |
 
- Volatility 
+---
 
- Wireshark 
-💻 Development Stack
-Core Languages
- HTML5 
+## 🌐 Connect
 
- CSS3 
+<p align="center">
+  <a href="https://linkedin.com/in/Simisosenkosi-Nxumalo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/Simisosenkosi_kalanga">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:simiso.nxumalo@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
- JavaScript 
-
- Python 
-Tools & Platforms
- Git 
-
- GitHub 
-
- VS Code 
-
- Linux 
-🏢 Professional Experience
-yaml
-Afribit (2025):
-  Role: Technical & Security Operations
-  Stack: Microsoft Sentinel, Defender, Purview, Azure
-  Impact: |
-    - Monitored 24/7 security environments
-    - Triaged threats using SC-200 methodology
-    - Supported secure cloud migration
-    - Managed M365 & SharePoint deployment
-
-Rectron (2025):
-  Role: Cloud Computing Learnership
-  Stack: Microsoft Azure, VMs, RBAC, Endpoint Protection
-  Impact: |
-    - Configured Azure environments
-    - Managed helpdesk ticket workflows
-    - Provided end-user technical support
-
-Ugome JS (2022):
-  Role: Technical Support
-  Stack: Network infrastructure, Mail systems, Security hardening
-  Impact: |
-    - Maintained network & mail infrastructure
-    - Assisted with ICT security hardening
-📊 GitHub Stats
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Somaphunga&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00d4ff&icon_color=00d4ff&text_color=e0e0e0&bg_color=0a0a0f"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Somaphunga&theme=radical&hide_border=true&background=0a0a0f&stroke=00d4ff&ring=00d4ff&fire=ff6600&currStreakNum=00d4ff&sideNums=e0e0e0&currStreakLabel=00d4ff&sideLabels=e0e0e0&dates=888"/>
-    </td>
-  </tr>
-</table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somaphunga&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00d4ff&text_color=e0e0e0&bg_color=0a0a0f"/>
-</div>
-🏆 Certifications & Training
-Table
-Certification	Status	Badge
-Microsoft SC-200 (Security Operations Analyst)	✅ Completed	
- SC-200 
-TryHackMe SOC Level 1	✅ Completed	
- SOC1 
-TryHackMe Digital Forensics	✅ Completed	
- DFIR 
-Splunk SIEM & Log Analysis	✅ Completed	
- Splunk 
-CCNA (Cisco Certified Network Associate)	⏳ In Progress	
- CCNA 
-Microsoft SC-400	⏳ In Progress	
- SC-400 
-Data Science Practitioner (Mecer Inter-Ed)	⏳ In Progress	
- DataSci 
-🎯 Current Focus
-diff
-+ Building Home SOC Lab (Microsoft Sentinel + Defender + KQL Detection Rules)
-+ CrowdStrike Falcon Certified (Free certification)
-+ CCNA Completion (Networking fundamentals for SOC depth)
-+ Applying to SOC L1 & Business Analyst roles
-+ Documenting incident response playbooks on GitHub
-🌐 Connect With Me
-<div align="center">
-https://linkedin.com/in/Simisosenkosi-Nxumalo
-https://instagram.com/Simisosenkosi_kalanga
-mailto:simiso.nxumalo@email.com
-</div>
-<div align="center">
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00d4ff&height=120&section=footer&text=PREVENT%20THE%20BREACH%20|%20PATCH%20THE%20ENDPOINT%20|%20HUNT%20THE%20THREAT&fontSize=14&fontColor=ffffff&animation=fadeIn"/>
-"From SOC detection to endpoint prevention — securing the digital future."
-</div>
-<!--
-Simiso Nxumalo | Cybersecurity Operations | Cloud & Endpoint Security
-Centurion, Gauteng, South Africa | Available Immediately
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer&text=PREVENT%20THE%20BREACH%20|%20PATCH%20THE%20ENDPOINT%20|%20HUNT%20THE%20THREAT&fontSize=16&fontColor=ffffff&animation=fadeIn" />
+</p>****
